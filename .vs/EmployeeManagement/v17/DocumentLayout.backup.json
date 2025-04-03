@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\searchbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\_employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\verve\\desktop\\employeemanagement\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ABCDBAD-BBEB-411A-8B07-9081179ABB55}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:18:16.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:48:18.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T11:08:31.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SearchBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\SearchBox.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\SearchBox.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\SearchBox.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\SearchBox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T10:47:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:34:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:39:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\_EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\_EmployeeList.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\_EmployeeList.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\_EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T11:26:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:27:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T11:44:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeManagement\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T09:28:15.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:53:37.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\verve\\Desktop\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:09:53.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

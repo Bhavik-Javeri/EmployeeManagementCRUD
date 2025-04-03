@@ -1,0 +1,85 @@
+﻿@model IEnumerable<EmployeeManagement.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee List";
+}
+
+<h2 class="text-center my-4">👨‍💼 Employee Management</h2>
+
+
+<!-- 🔍 Search & Filter Form -->
+<form method="get" class="d-flex gap-2 justify-content-center mb-4">
+    <input type="text" id="searchBox" class="form-control w-25 mb-3" placeholder="Search by Name or ID" />
+
+    <select id="departmentFilter" class="form-select w-25 mb-3">
+        <option value="">All Departments</option>
+        <option value="HR">HR</option>
+        <option value="IT">IT</option>
+        <option value="Finance">Finance</option>
+    </select>
+    
+
+
+    @* <button type="submit" class="btn btn-primary">🔍 Search</button> *@
+</form>
+
+<!-- Employee Table -->
+<!-- Employee Table -->
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody id="employeeTableBody">
+        @Html.Partial("_EmployeeList", Model)  @* ✅ Sirf tbody render ho raha hai *@
+    </tbody>
+</table>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        // 🔍 Search Feature
+        $("#searchBox").on("keyup", function () {
+            var searchTerm = $(this).val();
+            $.ajax({
+                url: '/Employee/Search',
+                type: 'GET',
+                data: { searchTerm: searchTerm },
+                success: function (data) {
+                    $("#employeeTableBody").html(data); // ✅ Sirf tbody update hoga
+                },
+                error: function () {
+                    alert("❌ Search feature failed!");
+                }
+            });
+        });
+
+        // 🔹 Filter Feature
+        $("#departmentFilter").on("change", function () {
+            var department = $(this).val();
+            $.ajax({
+                url: '/Employee/Filter',
+                type: 'GET',
+                data: { department: department },
+                success: function (data) {
+                    $("#employeeTableBody").html(data); // ✅ Sirf tbody update hoga
+                },
+                error: function () {
+                    alert("❌ Filter feature failed!");
+                }
+            });
+        });
+    });
+</script>
+
+
+
+
+
+<a asp-action="Create" class="btn btn-success mt-3">➕ Add New Employee</a>

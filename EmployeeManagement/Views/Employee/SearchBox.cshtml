@@ -1,0 +1,20 @@
+﻿@* @model IEnumerable<Employee> *@
+
+@* <form method="get"> *@
+@*     <input type="text" name="searchTerm" placeholder="Search by Name or ID" value="@Context.Request.Query["searchTerm"]" /> *@
+@*     <button type="submit">Search</button> *@
+@* </form> *@
+
+@* <table border="1"> *@
+@*     <tr> *@
+@*         <th>ID</th> *@
+@*         <th>Name</th> *@
+@*     </tr> *@
+@*     @foreach (var emp in Model) *@
+@*     { *@
+@*         <tr> *@
+@*             <td>@emp.Id</td> *@
+@*             <td>@emp.Name</td> *@
+@*         </tr> *@
+@*     } *@
+@* </table> *@
